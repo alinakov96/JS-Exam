@@ -45,5 +45,3 @@ async function renderUsers() {
 renderUsers();
 
 document.getElementById("output").style.cssText = "box-shadow: 10px 10px 8px;";
-
-// complete project
