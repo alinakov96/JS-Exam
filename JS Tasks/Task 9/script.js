@@ -38,5 +38,3 @@ film3.wasExpensive();
 film4.wasExpensive();
 film5.wasExpensive();
 film6.wasExpensive();
-
-//complete
