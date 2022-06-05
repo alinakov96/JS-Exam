@@ -38,7 +38,6 @@ document.getElementById("spanGram").style.cssText =
   "margin:2rem;padding:1rem;border:solid 2px black;font-style:italic;";
 document.getElementById("spanOunce").style.cssText =
   "margin:2rem;padding:1rem;border:solid 2px black;font-style:italic;";
-document;
 
 document.getElementById("output").style.visibility = "hidden";
 document.getElementById("search").addEventListener("input", function (e) {
