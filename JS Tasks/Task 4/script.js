@@ -42,5 +42,3 @@ renderCars();
 
 document.querySelector("#output").style.cssText =
   "text-align:center;padding:2rem;border:solid 3px gray;margin:2rem;";
-
-//complete project
