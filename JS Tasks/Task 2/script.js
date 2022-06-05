@@ -12,3 +12,5 @@ window.addEventListener("load", () => {
     counter.textContent = parseInt(counter.textContent) + 1;
   });
 });
+
+//working counter established//
