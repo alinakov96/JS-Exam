@@ -36,3 +36,5 @@ alert("Sum=" + calculator.sum());
 alert("Sub=" + calculator.sub());
 alert("Mul=" + calculator.mul());
 alert("Div=" + calculator.div());
+
+// complete
